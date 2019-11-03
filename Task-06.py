@@ -1,0 +1,6 @@
+print("Enter Number: ")
+a = int(input())
+print("Enter Number: ")
+b = int(input())
+sum = str(a+b)
+print("Addition: " + sum)
